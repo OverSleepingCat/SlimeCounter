@@ -1,0 +1,2 @@
+# SlimeCounter
+Slime clicker counter
