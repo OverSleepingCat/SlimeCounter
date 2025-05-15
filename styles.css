@@ -1,0 +1,43 @@
+.image-container {
+      cursor: pointer;
+      display: grid;
+      place-items: center;
+    }
+
+    .backGround {
+        background-color: bisque;
+        border-radius: 10px;
+        border: 500px;
+        
+    }
+
+    .counter {
+      top: 100px;
+      left: 5px;
+      background: rgba(0,0,0,0.7);
+      color: white;
+      padding: 10px 10px;
+      border-radius: 4px;
+      font-weight: bold;
+      font-family: sans-serif;
+      cursor: pointer;
+      display: grid;
+      place-items: center;
+      text-align: center;
+    }
+
+    img {
+      width: 200px;
+      height: auto;
+      text-align: center;
+    }
+
+    div {
+        display: grid;
+        place-items: center;
+    }
+
+    p {
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+    }
